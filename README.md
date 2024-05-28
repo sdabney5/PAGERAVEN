@@ -8,13 +8,17 @@ This is particularly useful if you own a text but face restrictions like DRM. Pa
 Basically, it flips through text pages in (pretty much) any app for reading electronic text, it screenshots each page (you specify the screenshot area with a rectangle tool), and saves it to a folder on your computer.
 
 ### Usage
-To use Page Raven, you have two options: download and run the standalone executable or run the Python script if you prefer.
+To use Page Raven, you have two options: download and run the standalone executable (the best way) or run the Python script if you prefer.
 
-#### Using the Executable 
-1. **Download the executable** from the releases page: https://github.com/sdabney5/PAGERAVEN/releases
-2. **Run the executable**:
+#### HOW TO DOWNLOAD: 
+1. **Download the executable**
+   - Direct download: [Page_Raven.exe](https://github.com/sdabney5/PAGERAVEN/releases/download/v1.0.0/Page_Raven.exe) OR
+   - From the releases page: [https://github.com/sdabney5/PAGERAVEN/releases](https://github.com/sdabney5/PAGERAVEN/releases) (click Page_Raven.exe, download it)
+   
+2. **Run it**:
    - On Windows: Double-click the executable file.
    - On macOS/Linux: Open a terminal and run `./Page_Raven.exe`.
+
 
 No additional dependencies are required. The executable includes everything needed to run the application.
 
