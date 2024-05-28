@@ -1,5 +1,5 @@
 # PAGE RAVEN
-- Text Restrictions: NEVERMORE -
+Text Restrictions: NEVERMORE
 
 - # Page Raven
 ### Overview:
