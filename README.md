@@ -1,9 +1,11 @@
 # PAGE RAVEN
-Text Restrictions: NEVERMORE
+## Text Restrictions: NEVERMORE
 
-- # Page Raven
+
 ### Overview:
-Page Raven is a tool designed to help users capture screenshots of a specified region on their screen and save them as PDF or TXT files. This is particularly useful for users who own a text but face restrictions like DRM. Page Raven provides a quick and easy way to get around these restrictions and preserve your content.
+Page Raven is a tool I designed to easily capture screenshots of etext pages and save them as PDF or TXT files. 
+This is particularly useful if you own a text but face restrictions like DRM. Page Raven provides a quick and easy way to get around these restrictions and preserve your content.
+Basically, it flips through text pages in (pretty much) any app for reading electronic text, it screenshots each page (you specify the screenshot area with a rectangle tool), and saves it to a folder on your computer.
 
 ### Usage
 To use Page Raven, you have two options: download and run the standalone executable or run the Python script if you prefer.
@@ -31,11 +33,11 @@ If you prefer to run the Python script, you must have Python 3.x installed on yo
 - pytweening
 - typing_extensions
 
-To use this script, download or clone the repository to your local machine.
+To use this script, download or clone the repository.
 You can install these packages using the following command:
    **pip install -r requirements.txt**
 	
-Once you have the dependencies installed, you can run the program using the **Page_Raven.py** script. This script opens a GUI that allows you to configure settings and start the screenshot process.
+Once you have the dependencies installed, you can run the program using the **Page_Raven.py** script. This script opens a GUI.
 
 Here's an example of how to run the program:  
 _______________________________________________________________________________
@@ -45,7 +47,7 @@ _______________________________________________________________________________
 ### Notes
 Please note that the program assumes the image is in a format that can be read by Pillow (not grayscale, CMYK, etc.).
 
-Additionally, while Page Raven includes features for customizing the screenshot process, it is primarily intended for quickly capturing and saving screenshots from e-texts. If you need more advanced features, you might need to modify the script or integrate it with other tools.
+Additionally, while Page Raven includes basic features the screenshot process, it is primarily intended for quickly capturing and saving screenshots from e-texts. If you need more advanced features, you might need to modify the script or integrate it with other tools.
 
 ### License
 Page Raven is licensed under the BSD-3-Clause License. You must attribute the original creator in any derivative works or distributions.
