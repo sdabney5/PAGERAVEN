@@ -14,6 +14,7 @@ To use Page Raven, you have two options: download and run the standalone executa
 1. **Download the executable**
    - Direct download: [Page_Raven.exe](https://github.com/sdabney5/PAGERAVEN/releases/download/v1.0.0/Page_Raven.exe) OR
    - From the releases page: [https://github.com/sdabney5/PAGERAVEN/releases](https://github.com/sdabney5/PAGERAVEN/releases) (click Page_Raven.exe, download it)
+   - Your laptop will probably tell you this is an unsafe or unrecognized file. You will have to tell it to trust the program, or 'run anyway'. 
    
 2. **Run it**:
    - On Windows: Double-click the executable file.
